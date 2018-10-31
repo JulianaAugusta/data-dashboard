@@ -4,6 +4,5 @@ Na Laboratoria, as Training Managers (TMs) fazem um ótimo trabalho analisando o
 
 Para otimizar seu tempo, as TMs solicitaram que nós construíssemos uma ferramenta da Web onde elas pudessem ver esses dados com facilidade e rapidez.
 
-[![screen shot](http://pt-br.tinypic.com/r/ei3wk1/9)]
 
 
