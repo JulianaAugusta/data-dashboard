@@ -4,5 +4,5 @@ Na Laboratoria, as Training Managers (TMs) fazem um ótimo trabalho analisando o
 
 Para otimizar seu tempo, as TMs solicitaram que nós construíssemos uma ferramenta da Web onde elas pudessem ver esses dados com facilidade e rapidez.
 
-
+![screen shot] (https://raw.githubusercontent.com/JulianaAugusta/data-dashboard/master/screencapture-julianaaugusta-github-io-data-dashboard-2018-10-31-12_59_34.png)
 
