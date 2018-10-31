@@ -1,25 +1,9 @@
 # Data Dashboard
 
-* **Track:** _Common Core_
-* **Curso:** _Creando tu primer sitio web interactivo_
-* **Unidad:** _Producto final_
+Na Laboratoria, as Training Managers (TMs) fazem um ótimo trabalho analisando o máximo de dados possíveis sobre o desempenho das alunas para apoiá-las em sua aprendizagem. Para revisar esses dados, as TMs geralmente precisam verificar muitos documentos do Excel (Google Spreadsheets) localizados em diferentes pastas e locais. Muitas vezes elas perdem tempo localizando esses documentos e executando fórmulas para obter os dados de que precisam.
 
-***
+Para otimizar seu tempo, as TMs solicitaram que nós construíssemos uma ferramenta da Web onde elas pudessem ver esses dados com facilidade e rapidez.
 
-## Flujo de trabajo
+[![screen shot](http://pt-br.tinypic.com/r/ei3wk1/9)]
 
-1. Debes realizar un [**fork**](https://gist.github.com/ivandevp/1de47ae69a5e139a6622d78c882e1f74)
-   de este repositorio.
 
-2. Luego deberás **clonar** tu fork en tu máquina. Recuerda que el comando a usar
-   es `git clone` y su estructura normalmente se ve así:
-
-   ```bash
-   git clone https://github.com/<nombre-de-usuario>/freelancer.git
-   ```
-
-3. Cuando hayas terminado tu producto, envía un Pull Request a este repositorio
-   (puedes solicitar apoyo de tus profes para este paso).
-
-> Nota: No olvides que es una buena práctica describir tu proyecto en este
-> archivo `README.md` y también desplegar tu web a Github Pages :smiley:.
